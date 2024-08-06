@@ -1,0 +1,81 @@
+.nav ul{
+
+    /* border: 2px solid #000000; */
+    width: 1510px;
+    height: 70px;
+    margin-bottom: 3px;
+    margin-right: 1px;
+    margin-left: 1px;
+
+    /* margin-right: 0px; */
+    /* margin-bottom: 0px; */
+/* display: inline; */
+
+
+}
+img{
+    
+    width: 100px;
+    margin-right: 745px;
+    
+
+}
+/* .p{
+    margin-left: 80px;
+} */
+/* .c{
+    margin-right: 0px;
+} */
+
+ul {
+      margin-right: 10px;
+  }
+ul li{
+    display: inline-block;
+    font-size: 25px;
+    /* margin-right: px; */
+    margin-left: 5px;
+    padding: 15px;
+    /* margin-top: 10px; */
+    /* margin-bottom: 100px; */
+    
+}
+ul li a{
+
+    font-weight: 400;
+    /* width: 200px; */
+    /* border: 1px solid blue; */
+    /* padding: 20px; */
+    padding: 10px 10px 10px 10px;
+    text-decoration: none;
+    /* margin-top: 10px; */
+    color: rgb(87, 86, 87);
+
+}
+.K:hover{
+    border-bottom-style: solid;
+    border-bottom-color: orangered;
+    background-color: rgb(234, 232, 228);
+}
+
+
+/* ---------------------------------------------------------------------------------------------------------- */
+.bdy{
+    
+    background-image: url('img/products-jumbotron.jpg');
+    margin-top: 0px;
+    margin-left: 5px;
+    margin-right: 5px;
+    width:1510px;
+    height: 510px;
+}
+.bdy h1{
+
+        /* border: 2px solid green; */
+        display:inline-block;
+        margin: 150px 100px 0px 300px ;
+        font-size: 60px;
+        /* text-align: center; */
+        color: white;
+        background-color: orangered;
+}
